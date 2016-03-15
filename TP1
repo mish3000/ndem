@@ -1,0 +1,15 @@
+Les commandes de base
+init
+git add   i.e. git add remote
+git commit   i.e.  commit-m  "marquer un message pertinent" 
+git push
+git pull  (fetch + merge )
+git fetch --> git log
+git reset --hard<nodecommit>    scarp
+git rebase   scrap
+
+Pull avant de commencer travail
+une modification = un commit
+un commit doit avoir une description pertinente idealement
+plusieurs commit un seul push
+utiliser un gestionnaire de sources en tout temps, meme si on travaille seul
